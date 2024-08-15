@@ -1,0 +1,8 @@
+D:\Тест_ПО\PR_4\PR_4\bin\Debug\PR_4.exe.config
+D:\Тест_ПО\PR_4\PR_4\bin\Debug\PR_4.exe
+D:\Тест_ПО\PR_4\PR_4\bin\Debug\PR_4.pdb
+D:\Тест_ПО\PR_4\PR_4\obj\Debug\PR_4.csproj.AssemblyReference.cache
+D:\Тест_ПО\PR_4\PR_4\obj\Debug\PR_4.csproj.SuggestedBindingRedirects.cache
+D:\Тест_ПО\PR_4\PR_4\obj\Debug\PR_4.csproj.CoreCompileInputs.cache
+D:\Тест_ПО\PR_4\PR_4\obj\Debug\PR_4.exe
+D:\Тест_ПО\PR_4\PR_4\obj\Debug\PR_4.pdb
